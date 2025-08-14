@@ -1,0 +1,6 @@
+streamlit
+fitz
+faiss
+sentence-transformers
+numpy
+ibm-watsonx-ai
